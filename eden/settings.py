@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-guo279(wb%&21or3!(+*14-7$om29t1!8uwg1xa-nbsb8!cj1q
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['eden-wyve.onrender.com']
+ALLOWED_HOSTS = ['eden-72at.onrender.com']
 
 
 # Application definition
